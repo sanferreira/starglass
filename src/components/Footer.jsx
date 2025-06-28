@@ -1,7 +1,7 @@
 import React from 'react';
 import { Mail, MapPin, Phone } from 'lucide-react';
 import Logo from '../assets/logo-sg.png';
-import LogoSF from '../assets/Logo-SF.svg';
+import LogoSF from '../assets/logo-SF.svg';
 
 const FooterSection = () => {
   return (
