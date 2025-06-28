@@ -34,8 +34,7 @@ const FooterSection = () => {
 
         <p className="text-xs text-white/80">
           ©2016-2025 <span className="font-bold text-white">Star Glass</span> - Todos os direitos reservados |{' '}
-          <a href="#" className="underline">Política de Privacidade</a> -{' '}
-          <span className="text-white font-medium">Agência Córtex por dev Léo Rosa</span>
+          <a href="#" className="underline">Política de Privacidade</a>
         </p>
       </div>
     </footer>
