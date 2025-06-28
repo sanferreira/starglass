@@ -1,5 +1,5 @@
 import React from 'react';
-import PersonImage from '../assets/sg-clean5.jpg';
+import PersonImage from '../assets/sg-clean5.JPG';
 import { TrendingUp, Building2, BrushCleaning } from 'lucide-react';
 
 const opportunities = [
