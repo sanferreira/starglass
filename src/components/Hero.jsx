@@ -29,7 +29,7 @@ const HeroSection = () => {
                         de até <span className="text-[#66CCFF]">R$45.000,00</span>
                     </h1>
                     <p className="mt-6 text-lg">
-                        Tenha sua própria <span className="font-semibold">franquia pioneira</span> em serviços<br className="hidden sm:block" />
+                        Tenha sua própria <span className="font-semibold">franquia pioneira</span> em serviços <br className="hidden sm:block" />
                         especializado em limpeza de fachada, vitrines,<br className="hidden sm:block" /> e superfícies envidraçadas de alto padrão
                     </p>
                 </div>
